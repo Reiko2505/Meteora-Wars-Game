@@ -3,6 +3,6 @@ Videojuego realizado en Java, tomando como referencia el clásico videojuego de 
 
 ⭐ Cada carpeta tiene de uno a tres capitulos del tutorial original
 
-⭐ El código final es "Meteora_Wars_Game" 
+⭐ El código final es "Código Final" 
 
 ⭐ Los assets fueron elaborados por Danysha Novelo (a excepcion de los meteoros) y la música fue compuesta por Héctor Song 
